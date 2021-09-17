@@ -46,15 +46,19 @@ header {
 header .content {
   display: flex;
   align-items: center;
-  padding: 1.875rem;
+  height: 84px;
+  margin: 0 30px;
 }
 
 header .logo {
   flex: 1;
+  text-decoration: none;
 }
 
 header nav ul {
   display: flex;
+  align-items: center;
+  list-style-type: none;
 }
 
 nav li {
@@ -62,15 +66,18 @@ nav li {
 }
 
 nav a {
-  vertical-align: bottom;
+  /*vertical-align: bottom;*/
   line-height: 1.6;
   font-size: 1rem;
   color: #4a4a4a;
+  font-family: 'Roboto-Regular';
+  text-decoration: none;
 }
 
 header .icon {
   width: 1rem;
   padding-left: .75rem;
+  
 }
 
 header .mobile {
