@@ -16,16 +16,17 @@
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _completed_ 
 
 
 ## TO-DO
 To do:
-- do tablet responsive version
-- do mobile responsive version
+- Nothing
 
 Complete:
 - web version
+- tablet  version
+- mobile version
 
 ## Acknowledgements
 - This project was inspired by...Codecademy
