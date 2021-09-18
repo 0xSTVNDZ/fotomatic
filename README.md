@@ -1,4 +1,4 @@
-# HTML/CSS Cheatsheet
+# Fotomatic
 > Fixing up a website and making it responsive to web, tablet and mobile devices!
 
 ## Table of Contents
