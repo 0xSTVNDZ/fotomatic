@@ -52,9 +52,11 @@ header .content {
   margin: 0 30px;
 }
 
+
 header .logo {
   flex: 1;
   text-decoration: none;
+  font-size: 24px;
 }
 
 header nav ul {
@@ -150,6 +152,7 @@ header .mobile {
   width: 100%;
   font-family: "Roboto", sans-serif;
   font-size: 1.25rem;
+  font-weight: 700;
   line-height: 1.4;
   color: white;
   justify-content: center;
@@ -243,6 +246,7 @@ header .mobile {
   justify-content: space-between;
   padding: 4rem 5%;
   background-color: #f3f3f3;
+  
 }
 
 .feature {
@@ -250,26 +254,41 @@ header .mobile {
   padding: 2rem;
   margin: 0px 1.25rem;
   background-color: white;
+  height: 635px;
+  width: 640px;
 }
 
 .feature .image-container {
   width: 90%;
   height: 65%;
   margin: 0 auto;
+  object-fit: contain;
+  margin-bottom: 40px;
+}
+
+.feature img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .feature h2 {
   padding-bottom: .5rem;
-  font-size: 2.25rem;
+  font-size: 36px;
   font-weight: bold;
   color: #4a4a4a;
+  line-height: 1.2;
+  font-family: 'Roboto';
+  font-weight: 700;
+  margin: 0;
 }
 
 .feature h3 {
   font-size: 1rem;
   line-height: 1.2;
   font-weight: 300;
+  font-family: 'Roboto';
   color: #4a4a4a;
+  margin: 0;
 }
 
 @media only screen and (max-width: 890px) {
