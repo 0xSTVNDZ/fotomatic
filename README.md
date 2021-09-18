@@ -1,5 +1,6 @@
 # Fotomatic
 > Fixing up a website and making it responsive to web, tablet and mobile devices!
+> Live demo [here](https://0xstvndz.github.io/fotomatic/)
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
